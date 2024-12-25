@@ -1,2 +1,2 @@
 # unicolor
-A simple web based multiplayer fps game
+A simple anime based multiplayer fps game (needs 1 device as local server)
