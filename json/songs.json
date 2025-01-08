@@ -12,5 +12,12 @@
         "file": "colorful_stars.mp3",
         "album": "UNICOLOR Theme 1",
         "duration": "1:53"
+    },
+    {
+        "id": "3",
+        "title": "Echoes of Tomorrow",
+        "file": "echoes_of_tomorrow.mp3",
+        "album": "UNICOLOR Theme 1",
+        "duration": "2:24"
     }
 ]
