@@ -1,4 +1,4 @@
 [
-    
-    {"all": true, "code": "en", "name": "English" }
+    {"all": true, "code": "en", "name": "English" },
+    {"all": true, "code": "fr", "name": "Français" }
 ]
